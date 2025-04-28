@@ -27,7 +27,7 @@
 # include <dirent.h>
 # include <signal.h>
 
-// command's return
+// command return
 # define DOUBLE 3
 # define ERROR 2
 # define VALID 1
